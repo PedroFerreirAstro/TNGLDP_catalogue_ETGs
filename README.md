@@ -2,7 +2,7 @@ This repository hosts a catalogue with strucutural, kinematic and photometric pr
 
 The catalogue is well-suited for machine learning applications in regression problems, as inference of some galaxy parameters. 
 
-If one is interested in using the catalogue in any type of application or research, citation to the paper is required.
+If one is interested in using the catalogue in any type of application or research, citation to the paper is required, which is currently in its preprint version: https://arxiv.org/abs/2501.04932
 
 Any questions/suggestions will be welcome at pedroitalo96@academico.ufs.br 
 
