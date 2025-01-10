@@ -1,4 +1,4 @@
-This repository hosts a catalogue with strucutural, kinematic and photometric properties of more than ten thousand simulated galaxies from IllustrisTNG simulations (https://www.tng-project.org). The properties of this catalogue are validated with respect to both simulations and observational results. 
+This repository hosts a catalogue with kinematic and photometric properties of more than ten thousand simulated galaxies from IllustrisTNG simulations (https://www.tng-project.org). The properties of this catalogue are validated with respect to both simulations and observational results. 
 
 The catalogue is well-suited for machine learning applications in regression problems, as inference of some galaxy parameters. 
 
