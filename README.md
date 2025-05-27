@@ -2,7 +2,7 @@ This repository hosts a catalogue with kinematic and photometric properties of m
 
 The catalogue is well-suited for machine learning applications in regression problems, as inference of some galaxy parameters. 
 
-If one is interested in using the catalogue in any type of application or research, citation to the paper is required, which is currently in its preprint version: https://arxiv.org/abs/2501.04932
+If one is interested in using the catalogue in any type of application or research, citation to the paper is required: [https://arxiv.org/abs/2501.04932](https://academic.oup.com/mnras/article/539/4/2855/8116295)
 
 Any questions/suggestions will be welcome at pedroitalo96@academico.ufs.br 
 
